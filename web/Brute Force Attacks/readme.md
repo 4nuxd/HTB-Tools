@@ -26,7 +26,7 @@ The goal is to discover the correct 4-digit PIN (`0000–9999`) that returns a J
 2. Run:
 
 ```bash
-python3 bruteforce.py
+python3 bruteforcer.py
 ```
 
 The script automatically stops when the correct PIN is found.
